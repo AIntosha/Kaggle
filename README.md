@@ -1,2 +1,1 @@
-# Kaggle
-## Kaggle competition Kernels
+# Kaggle competitions 
